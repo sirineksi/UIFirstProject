@@ -7,18 +7,42 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		233A63332A14E97E00B4A303 /* YapildiButonu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 233A63322A14E97E00B4A303 /* YapildiButonu.swift */; };
 		23458BAA2A0A528600680DBA /* UIFirstProjectApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23458BA92A0A528600680DBA /* UIFirstProjectApp.swift */; };
 		23458BAC2A0A528600680DBA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23458BAB2A0A528600680DBA /* ContentView.swift */; };
 		23458BAE2A0A528800680DBA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 23458BAD2A0A528800680DBA /* Assets.xcassets */; };
 		23458BB12A0A528800680DBA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 23458BB02A0A528800680DBA /* Preview Assets.xcassets */; };
+		23458BB82A0A5FD200680DBA /* OzelGorselViev.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23458BB72A0A5FD200680DBA /* OzelGorselViev.swift */; };
+		23458BBA2A0A640700680DBA /* OzelTextViev.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23458BB92A0A640700680DBA /* OzelTextViev.swift */; };
+		23458BBC2A0A689D00680DBA /* UIButtonGorunum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23458BBB2A0A689D00680DBA /* UIButtonGorunum.swift */; };
+		23458BBE2A0A68EB00680DBA /* UIButtonikinciGorunum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23458BBD2A0A68EB00680DBA /* UIButtonikinciGorunum.swift */; };
+		236AFEFA2A0BACF0009009B4 /* BolumluViev.swift in Sources */ = {isa = PBXBuildFile; fileRef = 236AFEF92A0BACF0009009B4 /* BolumluViev.swift */; };
+		23BBF34F2A0B945600A0174A /* ListGorunumViev.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23BBF34E2A0B945600A0174A /* ListGorunumViev.swift */; };
+		23BBF3512A0BA65200A0174A /* Kullanici.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23BBF3502A0BA65200A0174A /* Kullanici.swift */; };
+		23BE73522A0E704800CC4BB1 /* ProfileDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23BE73512A0E704800CC4BB1 /* ProfileDetailView.swift */; };
+		23BE73542A13A7DB00CC4BB1 /* YapilacakModeli.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23BE73532A13A7DA00CC4BB1 /* YapilacakModeli.swift */; };
+		23BE73562A13A95D00CC4BB1 /* YapilacakListViev.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23BE73552A13A95D00CC4BB1 /* YapilacakListViev.swift */; };
+		23BE73582A13AB0700CC4BB1 /* YapilacakDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23BE73572A13AB0700CC4BB1 /* YapilacakDetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		233A63322A14E97E00B4A303 /* YapildiButonu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YapildiButonu.swift; sourceTree = "<group>"; };
 		23458BA62A0A528600680DBA /* UIFirstProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UIFirstProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		23458BA92A0A528600680DBA /* UIFirstProjectApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIFirstProjectApp.swift; sourceTree = "<group>"; };
 		23458BAB2A0A528600680DBA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		23458BAD2A0A528800680DBA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		23458BB02A0A528800680DBA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		23458BB72A0A5FD200680DBA /* OzelGorselViev.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OzelGorselViev.swift; sourceTree = "<group>"; };
+		23458BB92A0A640700680DBA /* OzelTextViev.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OzelTextViev.swift; sourceTree = "<group>"; };
+		23458BBB2A0A689D00680DBA /* UIButtonGorunum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIButtonGorunum.swift; sourceTree = "<group>"; };
+		23458BBD2A0A68EB00680DBA /* UIButtonikinciGorunum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIButtonikinciGorunum.swift; sourceTree = "<group>"; };
+		236AFEF92A0BACF0009009B4 /* BolumluViev.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BolumluViev.swift; sourceTree = "<group>"; };
+		23BBF34E2A0B945600A0174A /* ListGorunumViev.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListGorunumViev.swift; sourceTree = "<group>"; };
+		23BBF3502A0BA65200A0174A /* Kullanici.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Kullanici.swift; sourceTree = "<group>"; };
+		23BE73512A0E704800CC4BB1 /* ProfileDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileDetailView.swift; sourceTree = "<group>"; };
+		23BE73532A13A7DA00CC4BB1 /* YapilacakModeli.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YapilacakModeli.swift; sourceTree = "<group>"; };
+		23BE73552A13A95D00CC4BB1 /* YapilacakListViev.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YapilacakListViev.swift; sourceTree = "<group>"; };
+		23BE73572A13AB0700CC4BB1 /* YapilacakDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YapilacakDetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,8 +77,20 @@
 			children = (
 				23458BA92A0A528600680DBA /* UIFirstProjectApp.swift */,
 				23458BAB2A0A528600680DBA /* ContentView.swift */,
+				23458BB72A0A5FD200680DBA /* OzelGorselViev.swift */,
+				23458BB92A0A640700680DBA /* OzelTextViev.swift */,
+				23458BBB2A0A689D00680DBA /* UIButtonGorunum.swift */,
+				23BE73512A0E704800CC4BB1 /* ProfileDetailView.swift */,
+				23458BBD2A0A68EB00680DBA /* UIButtonikinciGorunum.swift */,
+				23BBF34E2A0B945600A0174A /* ListGorunumViev.swift */,
 				23458BAD2A0A528800680DBA /* Assets.xcassets */,
 				23458BAF2A0A528800680DBA /* Preview Content */,
+				23BBF3502A0BA65200A0174A /* Kullanici.swift */,
+				236AFEF92A0BACF0009009B4 /* BolumluViev.swift */,
+				23BE73532A13A7DA00CC4BB1 /* YapilacakModeli.swift */,
+				23BE73552A13A95D00CC4BB1 /* YapilacakListViev.swift */,
+				233A63322A14E97E00B4A303 /* YapildiButonu.swift */,
+				23BE73572A13AB0700CC4BB1 /* YapilacakDetailView.swift */,
 			);
 			path = UIFirstProject;
 			sourceTree = "<group>";
@@ -137,7 +173,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				23BE73582A13AB0700CC4BB1 /* YapilacakDetailView.swift in Sources */,
+				23458BBC2A0A689D00680DBA /* UIButtonGorunum.swift in Sources */,
+				23458BB82A0A5FD200680DBA /* OzelGorselViev.swift in Sources */,
+				23458BBE2A0A68EB00680DBA /* UIButtonikinciGorunum.swift in Sources */,
 				23458BAC2A0A528600680DBA /* ContentView.swift in Sources */,
+				23BBF34F2A0B945600A0174A /* ListGorunumViev.swift in Sources */,
+				236AFEFA2A0BACF0009009B4 /* BolumluViev.swift in Sources */,
+				23458BBA2A0A640700680DBA /* OzelTextViev.swift in Sources */,
+				23BE73562A13A95D00CC4BB1 /* YapilacakListViev.swift in Sources */,
+				233A63332A14E97E00B4A303 /* YapildiButonu.swift in Sources */,
+				23BE73542A13A7DB00CC4BB1 /* YapilacakModeli.swift in Sources */,
+				23BE73522A0E704800CC4BB1 /* ProfileDetailView.swift in Sources */,
+				23BBF3512A0BA65200A0174A /* Kullanici.swift in Sources */,
 				23458BAA2A0A528600680DBA /* UIFirstProjectApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
